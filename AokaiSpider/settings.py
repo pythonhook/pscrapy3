@@ -107,9 +107,6 @@ MYSQL_DBNAME = "test2"
 MYSQL_USER = "root"
 MYSQL_PASSWORD = "aokai100"
 
-
-
-
 SQL_DATETIME_FORMAT = "%Y-%m-%d %H:%M:%S"
 SQL_DATE_FORMAT = "%Y-%m-%d"
 
