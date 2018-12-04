@@ -102,15 +102,12 @@ DOWNLOAD_DELAY = 3
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
-# MYSQL_HOST = "172.16.10.43"
-# MYSQL_DBNAME = "test2"
-# MYSQL_USER = "root"
-# MYSQL_PASSWORD = "aokai100"
+MYSQL_HOST = "172.16.10.43"
+MYSQL_DBNAME = "test2"
+MYSQL_USER = "root"
+MYSQL_PASSWORD = "aokai100"
 
-MYSQL_HOST = "47.97.103.157"
-MYSQL_DBNAME = "aokai-price"
-MYSQL_USER = "ihwdz"
-MYSQL_PASSWORD = "<ihwdz@price157.com>"
+
 
 
 SQL_DATETIME_FORMAT = "%Y-%m-%d %H:%M:%S"
